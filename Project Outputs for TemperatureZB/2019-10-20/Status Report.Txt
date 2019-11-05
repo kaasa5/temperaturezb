@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [TemperatureZB.PcbDoc]
+   Generated File[TemperatureZB.GTO]
+   Generated File[TemperatureZB.GTS]
+   Generated File[TemperatureZB.GTL]
+   Generated File[TemperatureZB.GBL]
+   Generated File[TemperatureZB.GBS]
+   Generated File[TemperatureZB.GBO]
+   Generated File[TemperatureZB.GM2]
+   Generated File[TemperatureZB.GM1]
+   Generated File[TemperatureZB.GPT]
+   Generated File[TemperatureZB.GPB]
+   Generated File[TemperatureZB.RUL]
+   Generated File[TemperatureZB.EXTREP]
+   Generated File[TemperatureZB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 3:14:44 PM On 20/10/2019

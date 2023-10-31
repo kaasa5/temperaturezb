@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\AltiumData\Projects\TemperatureZB\TemperatureZB.PcbDoc
-Date     : 7/10/2019
-Time     : 10:00:18 PM
+Date     : 20/10/2019
+Time     : 2:57:59 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -24,7 +24,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) ((InComponentClass('Ant Comps') OR InNet('NetC22_1')))
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=0.16mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5mm) (All)
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04
